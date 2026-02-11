@@ -1,7 +1,6 @@
 # Unidad-2_Practica-1
-
-class Program
-{
+    class Program
+    {
     static void Main(string[] args)
     {
         int Personas = 0, edad = 0;
